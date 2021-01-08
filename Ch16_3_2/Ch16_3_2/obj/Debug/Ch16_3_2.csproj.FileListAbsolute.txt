@@ -1,0 +1,10 @@
+C:\Users\EdwardChen\Documents\GitHub\winform\Ch16_3_2\Ch16_3_2\bin\Debug\Ch16_3_2.exe.config
+C:\Users\EdwardChen\Documents\GitHub\winform\Ch16_3_2\Ch16_3_2\bin\Debug\Ch16_3_2.exe
+C:\Users\EdwardChen\Documents\GitHub\winform\Ch16_3_2\Ch16_3_2\bin\Debug\Ch16_3_2.pdb
+C:\Users\EdwardChen\Documents\GitHub\winform\Ch16_3_2\Ch16_3_2\obj\Debug\Ch16_3_2.csprojAssemblyReference.cache
+C:\Users\EdwardChen\Documents\GitHub\winform\Ch16_3_2\Ch16_3_2\obj\Debug\Ch16_3_2.Form1.resources
+C:\Users\EdwardChen\Documents\GitHub\winform\Ch16_3_2\Ch16_3_2\obj\Debug\Ch16_3_2.Properties.Resources.resources
+C:\Users\EdwardChen\Documents\GitHub\winform\Ch16_3_2\Ch16_3_2\obj\Debug\Ch16_3_2.csproj.GenerateResource.cache
+C:\Users\EdwardChen\Documents\GitHub\winform\Ch16_3_2\Ch16_3_2\obj\Debug\Ch16_3_2.csproj.CoreCompileInputs.cache
+C:\Users\EdwardChen\Documents\GitHub\winform\Ch16_3_2\Ch16_3_2\obj\Debug\Ch16_3_2.exe
+C:\Users\EdwardChen\Documents\GitHub\winform\Ch16_3_2\Ch16_3_2\obj\Debug\Ch16_3_2.pdb
